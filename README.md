@@ -10,4 +10,4 @@ Assignments 1 and 5 where not programming, thus are missing from this repo
 
 ## [3. Mini-Max](minimax)
 
-## [4. Constraint Satisfaction Problem](csp)
+## [4. Constraint Satisfaction Problem](%20csp)
